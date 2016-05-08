@@ -4,9 +4,9 @@ Servo myservo;
 //adding comments
 int pos = 0;
 
-//add unncessary stuff
-int someUnnecessaryVariable=0;
-
+//delete unncessary stuff
+int tomtao = 0;
+// add variable tomtao
 int buttonPin = 2;
 int buttonVal = 0;
 int pButtonVal = 0;

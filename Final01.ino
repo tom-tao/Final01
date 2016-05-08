@@ -13,8 +13,6 @@ int pButtonVal = 0;
 
 int counter = 0;
 
-i am adding a space ship
-
 void setup() {
   // put your setup code here, to run once:
   myservo.attach(9);

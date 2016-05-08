@@ -6,6 +6,7 @@ int pos = 0;
 
 //add unncessary stuff
 int someUnnecessaryVariable=0;
+int celestial=0;
 
 int buttonPin = 2;
 int buttonVal = 0;

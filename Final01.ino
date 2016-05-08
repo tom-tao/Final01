@@ -1,7 +1,7 @@
 #include <Servo.h>
 Servo myservo;
 
-
+//adding comments
 int pos = 0;
 
 int buttonPin = 2;

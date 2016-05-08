@@ -1,8 +1,12 @@
 #include <Servo.h>
 Servo myservo;
 
-
+//adding comments
 int pos = 0;
+
+//adding unnecessary stuff
+
+int unnecessaryVariet=0;
 
 int buttonPin = 2;
 int buttonVal = 0;
